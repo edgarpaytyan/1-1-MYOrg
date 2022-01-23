@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\1-1-MyOrg.sln",
   "PreviewInSolutionExplorer": false
 }
