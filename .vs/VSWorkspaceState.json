@@ -3,11 +3,8 @@
     "",
     "\\Views",
     "\\Views\\Home",
-    "\\Views\\Shared",
-    "\\wwwroot\\css",
-    "\\wwwroot\\js",
-    "\\wwwroot\\lib"
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\1-1-MyOrg.sln",
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
